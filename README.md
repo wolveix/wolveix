@@ -4,7 +4,4 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Wolveix&layout=compact)](https://github.com/Wolveix)
 
-### Reach Me
-- Discord - Wolveix#2211
-- [Hosted Talk](https://hostedtalk.net/u/Wolveix)
-- [Linked In](https://linkedin.com/in/robert-andrew-thomas)
+### [Reach Me Elsewhere](https://wolveix.com/links)
