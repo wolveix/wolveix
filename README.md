@@ -16,4 +16,6 @@
 
 ![Monthly Time Coding](https://github-readme-stats.vercel.app/api/wakatime?username=wolveix&api_domain=wakapi.lze.ro&custom_title=Monthly%20Time%20Coding&layout=compact&range=last_30_days&theme=transparent)]
 
+![Visitors Counter](https://komarev.com/ghpvc/?username=wolveix&style=flat&label=Views)
+
 ![](https://hit.yhype.me/github/profile?user_id=31854736)
