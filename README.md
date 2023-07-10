@@ -14,7 +14,7 @@
 
 ![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Wolveix&layout=compact&show_icons=true&theme=transparent)
 
-![Monthly Time Coding](https://github-readme-stats.vercel.app/api/wakatime?username=wolveix&api_domain=wakapi.lze.ro&custom_title=Monthly%20Time%20Coding&layout=compact&range=last_30_days&theme=transparent)
+![Time Coding This Week](https://github-readme-stats.vercel.app/api/wakatime?username=wolveix&api_domain=wakapi.lze.ro&custom_title=Time%20Coding%20This%20Week&layout=compact&range=last_7_days&theme=transparent)
 
 ![Visitors Counter](https://komarev.com/ghpvc/?username=wolveix&style=flat&label=Views)
 
