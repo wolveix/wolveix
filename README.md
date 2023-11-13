@@ -3,8 +3,7 @@
 ## About Me
 
 - Founder @ [Level Zero Technology](https://github.com/levelzerotechnology)
-- Senior Software Engineer @ [Global Cyber Alliance](https://github.com/GlobalCyberAlliance)
-- Systems Administrator @ [QuickPacket](https://quickpacket.com)
+- Head of Engineering @ [Global Cyber Alliance](https://github.com/GlobalCyberAlliance)
 
 🔗 [You can find all of my socials here](https://wolveix.com/links).
 
