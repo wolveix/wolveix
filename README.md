@@ -5,7 +5,7 @@
 - Founder @ [Level Zero Technology](https://github.com/levelzerotechnology)
 - Head of Engineering @ [Global Cyber Alliance](https://github.com/GlobalCyberAlliance)
 
-🔗 [You can find all of my socials here](https://wolveix.com/links).
+🔗 [You can find me elsewhere here](https://wolveix.com/links).
 
 ## Analytics
 
@@ -13,7 +13,7 @@
 
 ![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Wolveix&layout=compact&show_icons=true&theme=transparent)
 
-![Time Coding This Week](https://github-readme-stats.vercel.app/api/wakatime?username=wolveix&api_domain=wakapi.lze.ro&custom_title=Time%20Coding%20This%20Week&layout=compact&range=last_7_days&theme=transparent)
+![Time Coding This Week](https://github-readme-stats.vercel.app/api/wakatime?username=wolveix&api_domain=wakapi.lze.ro&custom_title=Time%20Coding%20This%20Week&layout=compact&langs_count=10&range=last_7_days&theme=transparent)
 
 ![Visitors Counter](https://komarev.com/ghpvc/?username=wolveix&style=flat&label=Views)
 
