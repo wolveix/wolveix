@@ -9,12 +9,14 @@
 
 ## Analytics
 
-![GitHub Stats](https://gh-stats.wolveix.com/api?username=wolveix&show_icons=true&custom_title=GitHub%20Stats&theme=transparent)
+[![This year](https://wolveix.com/api/badges/summary?period=year)](https://wolveix.com/feed)
 
-![Most Used Languages](https://gh-stats.wolveix.com/api/top-langs?username=wolveix&layout=compact&show_icons=true&theme=transparent)
+[![GitHub Stats](https://wolveix.com/api/badges/github)](https://wolveix.com/software)
 
-![Time Coding This Week](https://gh-stats.wolveix.com/api/wakatime?username=wolveix&custom_title=Time%20Coding%20This%20Week&langs_count=10&layout=compact&theme=transparent&v=2)
+[![Most Used Languages](https://wolveix.com/api/badges/languages)](https://wolveix.com/stats)
 
-![Visitors Counter](https://komarev.com/ghpvc/?username=wolveix&style=flat&label=Views) [![Wakatime](https://wakatime.com/badge/user/119160e4-4a8c-4526-9f73-9bff8037d079.svg)](https://wakatime.com/@119160e4-4a8c-4526-9f73-9bff8037d079)
+[![Time Coding This Week](https://wolveix.com/api/badges/coding)](https://wolveix.com/stats)
+
+![Visitors Counter](https://komarev.com/ghpvc/?username=wolveix&style=flat&label=Views)
 
 ![](https://hit.yhype.me/github/profile?user_id=31854736)
